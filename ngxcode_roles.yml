@@ -1,0 +1,5 @@
+---
+-  hosts: Group1
+   become: true
+   roles:
+     - nginxrole 
